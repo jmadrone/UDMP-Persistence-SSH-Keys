@@ -1,6 +1,6 @@
 #!/bin/sh
 
-user_authorized_keys_file="/mnt/data/ssh/authorized_keys"
+user_authorized_keys_file="/data/ssh/authorized_keys"
 udm_authorized_keys_file="/root/.ssh/authorized_keys"
 
 # if /mnt/data/ssh/authorized_keys is missing print error message
